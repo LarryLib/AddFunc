@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/lxd-Super-main/AddFunc"
 
-  s.license      = { :type => "MIT", :file => "LICENSE" }  --allow-warnings
+  s.license      = { :type => "MIT", :file => "LICENSE" } 
 
   s.author       = { "larry" => "lxd_super_main@126.com" }
 
